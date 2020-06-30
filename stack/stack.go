@@ -66,4 +66,7 @@ func main() {
 	stack.Pop()
 	stack.Pop()
 	stack.PrintStack()
+	stack.Pop()
+	stack.PrintStack()
+	stack.Pop()
 }
